@@ -70,3 +70,5 @@ The golden rule of rebasing is to not rebase public branches.
 
 References : https://medium.com/osedea/git-rebase-powerful-command-507bbac4a234
 
+References for git cherry-pick : https://youtu.be/-ndmel-4wsk
+
