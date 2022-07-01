@@ -41,6 +41,9 @@ git remote add origin https://github.com/codesmash77/git-commands-.git
 
 git push -u origin main
 
+git diff --color-words \\ shows changes made to all files and uses color coding to mark the difference.
+
+git diff --color-words --staged \\ shows changes made to all files that are staged and uses color coding to mark the difference.
 
 
 
