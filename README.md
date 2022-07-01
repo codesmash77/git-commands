@@ -1,4 +1,4 @@
-# git-commands-
+# git-commands
 Sample app for learning git commands
 
 ## Personal Notes
