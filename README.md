@@ -19,31 +19,31 @@ git add *.html
 
 git status
 
-git add .  \\adding all modified and unmodified files to the staging area.
+git add .  \\\adding all modified and unmodified files to the staging area.
 
-git commit  \\manual commit by entering i to be in insert mode and then typing initial commit desc, then press esc and then enter :wq to get out of editor gui.
+git commit  \\\manual commit by entering i to be in insert mode and then typing initial commit desc, then press esc and then enter :wq to get out of editor gui.
 
-git commit -m ‘changed app.js’ \\committing without using editor gui inside command line.
+git commit -m ‘changed app.js’ \\\committing without using editor gui inside command line.
 
 git branch login
 
-git checkout login \\switching to the login branch from the master branch.
+git checkout login \\\switching to the login branch from the master branch.
 
 git commit -m ‘login form’
 
-git merge login \\to merge login branch with master branch.
+git merge login \\\to merge login branch with master branch.
 
-git clean -n \\to see a dry run.
+git clean -n \\\to see a dry run.
 
-git clean -f -d \\to remove untracked directories.
+git clean -f -d \\\to remove untracked directories.
 
 git remote add origin https://github.com/codesmash77/git-commands-.git
 
 git push -u origin main
 
-git diff --color-words \\ shows changes made to all files and uses color coding to mark the difference.
+git diff --color-words \\\shows changes made to all files and uses color coding to mark the difference.
 
-git diff --color-words --staged \\ shows changes made to all files that are staged and uses color coding to mark the difference.
+git diff --color-words --staged \\\shows changes made to all files that are staged and uses color coding to mark the difference.
 
 
 
