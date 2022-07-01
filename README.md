@@ -1,7 +1,7 @@
 # git-commands-
 Sample app for learning git commands
 
-##Personal Notes
+## Personal Notes
 
 git init
 
@@ -44,7 +44,7 @@ git push -u origin main
 
 
 
-###GIT REBASE
+### GIT REBASE
 If we have the following situation:
 
     E---F---G---H---I---J  topicA
