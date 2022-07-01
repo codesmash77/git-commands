@@ -55,7 +55,8 @@ would result in the removal of commits F and G:
 
     E---H'---I'---J'  topicA
 
-Where  '--onto topicA~5' implies commit E and 'topicA~3' is the keepbase.
+Where  '--onto topicA~5' implies commit E 
+and 'topicA~3' is the keepbase.
 
 If a conflict is encountered while rebasing, git will indicate which files are conflicting and need to be modified. 
 After changes have been made, the changes need to be staged to the commit and then the rebase can resume using git rebase --continue. 
